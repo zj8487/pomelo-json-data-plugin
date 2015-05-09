@@ -1,0 +1,32 @@
+{
+  "name": "pomelo-json-data-plugin",
+  "version": "0.1.0",
+  "description": "Json config data plugin for Pomelo",
+  "homepage": "https://github.com/zj8487/pomelo-json-data-plugin",
+  "author": "zj8487 <zj8487@gmail.com> (https://github.com/zj8487)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zj8487/pomelo-json-data-plugin.git"
+  },
+  "license": "MIT",
+  "files": [
+    "LICENSE", "README.md", "lib", "index.js", "package.json"
+  ],
+  "keywords": [
+    "pomelo-json-data-plugin",
+    "pomelo",
+    "json",
+    "config"
+  ],
+  "dependencies": {
+    "chokidar": "^1.0.1"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/zj8487/pomelo-json-data-plugin/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
